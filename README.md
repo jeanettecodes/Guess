@@ -1,3 +1,3 @@
 # Guess
 
-Python random number game
+Python Random Number Game
